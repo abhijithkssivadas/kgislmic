@@ -1,0 +1,23 @@
+<!Doctype html>
+<html>
+<head>
+<title>My WebPage</title>
+</head>
+<body>
+<h1>Web page</h1>
+<h2>full stack</h2>
+<hr>
+<h3>Discription</h3>
+<p><strong>Full stack development</strong> is the process of developing both the frontend and 
+backend of applications. Any application has a frontend (user-facing) component
+and a backend (database and logic) component. The frontend contains the user interface
+and code related to user interactions with the application</P>
+<h4>Image</h4>
+<img src="fullstack.jpg" height="200px" width="250px"/>
+<h4>AnchorTag</h4><br>
+<a href="https://www.simplilearn.com/full-stack-developer-skills-and-advantages-article">Home</a><br>
+<a href="https://devopedia.org/full-stack-developer">Languages</a>
+<audio src="relaxing.mp3"controls></audio>
+
+</body>
+</html>
